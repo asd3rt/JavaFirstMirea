@@ -12,7 +12,7 @@ public class Animation extends JFrame {
 
     private Animation(){
         this.setSize(1920, 1080);
-        imgLabel = new JLabel("", new ImageIcon(getClass().getResource("1.jpeg")), SwingConstants.CENTER);
+        imgLabel = new JLabel("", new ImageIcon(getClass().getResource("1.jpg")), SwingConstants.CENTER);
 
         getContentPane().add(imgLabel);
 
@@ -20,7 +20,7 @@ public class Animation extends JFrame {
         timer.start();
     }
     private void nextImg(){
-        imgLabel.setIcon(new ImageIcon(getClass().getResource((++imgNum)+".jpeg")));
+        imgLabel.setIcon(new ImageIcon(getClass().getResource((++imgNum)+".jpg")));
         if(imgNum == 5) imgNum = 0;
 
     }

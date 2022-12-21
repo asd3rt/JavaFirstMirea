@@ -20,7 +20,7 @@ public class Animation1 extends JFrame {
         controls = new Container();
         controls = getContentPane();
         controls.setLayout(new GridLayout());
-        pictureLabel = new JLabel(new ImageIcon("C:\\Users\\konor\\IdeaProjects\\JavaFirstMirea\\src\\ru\\mirea\\task5\\odnophoto\\Putin.jpg","test"));
+        pictureLabel = new JLabel(new ImageIcon("C:\\Users\\CALIFORNIA\\IdeaProjects\\JavaFirstMirea\\src\\ru\\mirea\\task5\\photo\\kolbasa.png","test"));
         controls.add(pictureLabel);
     }
 
