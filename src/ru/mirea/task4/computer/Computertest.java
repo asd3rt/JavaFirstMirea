@@ -1,6 +1,5 @@
-package ru.mirea.task4;
-import java.util.ArrayList;
-import java.util.List;
+package ru.mirea.task4.computer;
+
 public class Computertest {
     public static void main(String[] args) {
         Proccesor proccesor=new Proccesor(4,8,"DDR5");

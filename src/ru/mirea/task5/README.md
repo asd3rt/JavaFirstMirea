@@ -11,7 +11,7 @@
 3. Создайте абстрактный класс, описывающий мебель (Furniture). С помощью наследования реализуйте различные виды мебели. Также создайте класс FurnitureShop, моделирующий магазин мебели. Протестируйте работу классов.
 
 ## Дополнительные материалы
-
+-
 [Абстрактные классы в Java c примерами (javarush.ru)](https://javarush.ru/groups/posts/1973-abstraktnihe-klassih-v-java-na-konkretnihkh-primerakh)
 
 [Наследование в Java, композиция и агрегирование, отношения между классами (javarush.ru)](https://javarush.ru/groups/posts/1967-otnoshenija-mezhdu-klassami-nasledovanie-kompozicija-i-agregirovanie-)

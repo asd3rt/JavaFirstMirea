@@ -1,4 +1,5 @@
-package ru.mirea.task4;
+package ru.mirea.task4.computer;
+
 public class Computer {
     private  Type mark;
     private int cost;

@@ -1,4 +1,4 @@
-package ru.mirea.task4;
+package ru.mirea.task4.computer;
 public class Proccesor {
     private  int frequency;
     private  int cores;
