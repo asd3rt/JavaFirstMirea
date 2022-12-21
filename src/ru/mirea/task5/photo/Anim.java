@@ -19,7 +19,7 @@ public class Anim extends JFrame {
         controls = new Container();
         controls = getContentPane();
         controls.setLayout(new GridLayout());
-        pictureLabel = new JLabel(new ImageIcon(президент.jpg,"test"));
+        pictureLabel = new JLabel(new ImageIcon(президент.jpeg,"test"));
         controls.add(pictureLabel);
     }
 
